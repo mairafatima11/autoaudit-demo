@@ -1,0 +1,10 @@
+{
+  "name": "autoaudit-demo",
+  "version": "1.0.0",
+  "description": "Sample billing service used to demonstrate AutoAudit AI",
+  "dependencies": {
+    "express": "^4.18.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
